@@ -1,0 +1,7 @@
+/home/eduardo/Downloads/BackEnd/src/main/java/com/trabalhoDeBackEnd/BackEnd/BackEndApplication.java
+/home/eduardo/Downloads/BackEnd/src/main/java/com/trabalhoDeBackEnd/BackEnd/Controller/Dtos/TarefaDto.java
+/home/eduardo/Downloads/BackEnd/src/main/java/com/trabalhoDeBackEnd/BackEnd/Controller/TarefaController.java
+/home/eduardo/Downloads/BackEnd/src/main/java/com/trabalhoDeBackEnd/BackEnd/Error/TaredaNotFoundException.java
+/home/eduardo/Downloads/BackEnd/src/main/java/com/trabalhoDeBackEnd/BackEnd/models/entities/Tarefa.java
+/home/eduardo/Downloads/BackEnd/src/main/java/com/trabalhoDeBackEnd/BackEnd/models/repository/TarefaRepository.java
+/home/eduardo/Downloads/BackEnd/src/main/java/com/trabalhoDeBackEnd/BackEnd/service/TarefaService.java

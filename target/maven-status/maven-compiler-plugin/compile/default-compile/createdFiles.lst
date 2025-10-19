@@ -1,0 +1,7 @@
+com/trabalhoDeBackEnd/BackEnd/Controller/Dtos/TarefaDto.class
+com/trabalhoDeBackEnd/BackEnd/Controller/TarefaController.class
+com/trabalhoDeBackEnd/BackEnd/models/entities/Tarefa.class
+com/trabalhoDeBackEnd/BackEnd/Error/TaredaNotFoundException.class
+com/trabalhoDeBackEnd/BackEnd/models/repository/TarefaRepository.class
+com/trabalhoDeBackEnd/BackEnd/service/TarefaService.class
+com/trabalhoDeBackEnd/BackEnd/BackEndApplication.class
